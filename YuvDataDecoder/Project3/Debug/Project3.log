@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\tdenizgez\source\repos\project3\project3\myform.h(252): warning C4244: 'başlatılıyor': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\tdenizgez\source\repos\project3\project3\myform.h(253): warning C4244: 'başlatılıyor': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+  Project3.vcxproj -> C:\Users\tdenizgez\source\repos\Project3\Debug\Project3.exe

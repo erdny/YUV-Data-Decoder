@@ -1,0 +1,26 @@
+﻿  YuvOperations.cpp
+c:\users\tdenizgez\source\repos\project3\project3\yuvoperations.cpp(77): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' bildirimine bakın
+c:\opencv\build\include\opencv2\core\cvstd.hpp(575): warning C4793: 'cv::String::String' : işlev yerel olarak derlendi :
+  	Yönetilen kodda desteklenmeyen iç değer bulundu
+c:\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat' : işlev yerel olarak derlendi :
+  	Yönetilen kodda desteklenmeyen iç değer bulundu
+c:\opencv\build\include\opencv2\core\cuda.inl.hpp(395): warning C4793: 'cv::cuda::HostMem::HostMem' : işlev yerel olarak derlendi :
+  	Yönetilen kodda desteklenmeyen iç değer bulundu
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(561): warning C4793: 'cv::Mat::Mat' : işlev yerel olarak derlendi :
+  	Yönetilen kodda desteklenmeyen iç değer bulundu
+c:\users\tdenizgez\source\repos\project3\project3\yuvoperations.cpp(21): warning C4715: 'yops::setFormats': tüm denetim yolları değer döndürmez
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(885): warning C4793: 'cv::Mat::release' : işlev yerel olarak derlendi :
+  	Yönetilen kodda desteklenmeyen iç değer bulundu
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(2221): warning C4793: 'cv::SparseMat::addref' : işlev yerel olarak derlendi :
+  	Yönetilen kodda desteklenmeyen iç değer bulundu
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(3821): warning C4793: 'cv::UMat::addref' : işlev yerel olarak derlendi :
+  	Yönetilen kodda desteklenmeyen iç değer bulundu
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef' : işlev yerel olarak derlendi :
+  	Yönetilen kodda desteklenmeyen iç değer bulundu
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef' : işlev yerel olarak derlendi :
+  	Yönetilen kodda desteklenmeyen iç değer bulundu
+c:\opencv\build\include\opencv2\core\cvstd.hpp(657): warning C4793: 'cv::String::operator=' : işlev yerel olarak derlendi :
+  	Yönetilen kodda desteklenmeyen iç değer bulundu
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Project3.vcxproj -> C:\Users\tdenizgez\source\repos\Project3\x64\Debug\Project3.exe
